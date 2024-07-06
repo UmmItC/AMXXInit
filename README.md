@@ -21,7 +21,7 @@ pip install -r requirements.txt
 1. **Clone the repository:**
 
    ```shell
-   git clone <repository_url>
+   git clone https://codeberg.org/UmmIt/AMXXInit.git
    cd AMXXInit
    ```
 
